@@ -2,5 +2,4 @@
 
 echo "Teste arquivo 2";
 
-
 ?>
